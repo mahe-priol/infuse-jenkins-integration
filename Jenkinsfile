@@ -4,7 +4,7 @@ import java.net.URL
 import java.net.HttpURLConnection
 import java.net.URLEncoder
 import java.util.NoSuchElementException
-//hope
+//hope i hope
 // All helper functions are now defined at the top level, outside of the 'pipeline' block.
 def getRunId() {
     if (fileExists("multidataset_run.log")) {
