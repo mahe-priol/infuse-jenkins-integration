@@ -1,5 +1,5 @@
 // Jenkinsfile
-import groovy.json.JsonSlurper
+// import groovy.json.JsonSlurper
 import java.net.URL
 import java.net.HttpURLConnection
 import java.net.URLEncoder
